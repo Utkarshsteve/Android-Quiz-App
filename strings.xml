@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">Name</string>
+    <string name="Question1">1. Andy Grove, Robert Noyce, Gordon Moore.Which company are we talking about?</string>
+    <string name="Question2">2. Which company co-founders are shown above?</string>
+    <string name="Question3">3. Connect YouTube,Yelp,Yammer,LinkedIn,Tesla Motors,SpaceX.</string>
+    <string name="Question4">4. What is the common link between Tesla and Toyota?</string>
+    <string name="Question5">5. Which is the first Indian company to breach $100 billion market capitalisation?</string>
+    <string name="Question6">6. "Don't be Evil".We are talking about which company? </string>
+    <string name="Question7">7. Connect Trip Hawkins with the company he has worked or founded? </string>
+    <string name="question7_choice1">Apple</string>
+    <string name="question7_choice2">Ubisoft</string>
+    <string name="question7_choice3">EA</string>
+    <string name="question7_choice4">IBM</string>
+    <string name="Question8">8. Which company name is a German language word means "over", "above" or "across".</string>
+    <string name="Question9">9. Which is the parent company of LinkedIn?</string>
+    <string name="question9_choice1">Apple</string>
+    <string name="question9_choice2">Microsoft</string>
+    <string name="question9_choice3">Amazon</string>
+    <string name="Question10">10. The new logo unveiled in 2012 represents Microsoft four major products: blue is Windows, red is Office, green is Xbox. What is yellow?</string>
+</resources>
